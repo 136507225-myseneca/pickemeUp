@@ -1,0 +1,8 @@
+.loc-btn {
+  position: absolute;
+  display: flex;
+  top: 10px;
+  left: 80%;
+  z-index: 1;
+  white-space: nowrap;
+}
